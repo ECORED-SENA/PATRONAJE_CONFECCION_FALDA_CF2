@@ -125,13 +125,14 @@
       #t_2_3.titulo-segundo.pt-5 
         .h4 2.3. Cuadro resumen de la clasificación de las fibras
       p.mb-5 En el siguiente cuadro puede revisar la síntesis sobre la clasificación de las principales fibras utilizadas en la confección.
-      .tabla-b.color-acento-contenido.mb-5
+      .tabla-a.color-acento-contenido.mb-5
         .tabla-b__header
           .h6.mb-0 Clasificación de las principales fibras textiles
-        table
-          tbody
+        table(border='1', style='border:1px solid #E1E1E1')
+          tbody(style='border:1px solid #E1E1E1')
             tr
-              td(rowspan='7') Naturales
+              td(rowspan='7') 
+                b Naturales
               td(rowspan='4') Vegetales
               td Semillas
               td Algod&oacute;n, Kapok
@@ -158,7 +159,7 @@
             //- second category
             tr
               td(rowspan='11')
-                | Qu&iacute;micas 
+                b Qu&iacute;micas 
                 br
                 | O hechas por el hombre
               td(rowspan='2') Artificiales
