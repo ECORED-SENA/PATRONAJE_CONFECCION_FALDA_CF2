@@ -129,68 +129,74 @@
         .tabla-b__header
           .h6.mb-0 Clasificación de las principales fibras textiles
         table
-          tr
-            td Naturales
-            td Vegetales
-            td semillas
-            td Algodón, Kapok
-          tr
-            td Fruto
-            td Coco, Ananá
-          tr
-            td Tallo
-            td Linio, Yute, Cáñamo, Ramio, Kenaf
-          tr
-            td Hoja
-            td Sisal, Manila, Henequén, Formio, Rafia
-          tr
-            td rowspan='2' Animales
-            td Fibras y Pelos
-            td Lana, Alpaca, Mohair, Vicuña, Camello
-          tr
-            td Exudado de larva
-            td Seda
-          tr
-            td Minerales
-            td Silicatos
-            td Silicatos
-          tr
-            td Químicas O hechas por el hombre
-            td Artificiales
-            td Pulpa de madera
-            td Ratón Viscoso
-          tr
-            td Pulpa de madera
-            td Ratón Diacetato y triacetato
-          tr
-            td Sintéticas
-            td Petróleo
-            td Poliamidas (Nylon, Antron, Rislan)
-          tr
-            td Petróleo
-            td Poliésteres (Tergal, Dacron, Terylene)
-          tr
-            td Petróleo
-            td Poliacrioliltrilicas (Orlon, Dralon)
-          tr
-            td Petróleo
-            td Poliolefinicas (Trofil, Merakion)
-          tr
-            td Petróleo
-            td Poliueretanicas (Lycra, Dorlastan)
-          tr
-            td Petróleo
-            td Aramídicas (Nomex, Kevlar, Kermel)
-          tr
-            td Petróleo
-            td Cloradas (Rhovil, Clevyl)
-          tr
-            td Inorgánicas
-            td Silicatos
-            td Lana de Vidrio
-          tr
-            td Metales
-            td Hilos Metálicos
+          tbody
+            tr
+              td(rowspan='7') Naturales
+              td(rowspan='4') Vegetales
+              td Semillas
+              td Algod&oacute;n, Kapok
+            tr
+              td Fruto
+              td Coco, Anan&aacute;
+            tr
+              td Tallo
+              td Linio, Yute, C&aacute;&ntilde;amo, Ramio, Kenaf
+            tr
+              td Hoja
+              td Sisal, Manila, Henequ&eacute;n, Formio, Rafia
+            tr
+              td(rowspan='2') Animales
+              td Fibras y Pelos
+              td Lana, Alpaca, Mohair, Vicu&ntilde;a, Camello
+            tr
+              td Exudado de larva
+              td Seda
+            tr
+              td Minerales
+              td Silicatos
+              td Silicatos
+            //- second category
+            tr
+              td(rowspan='11')
+                | Qu&iacute;micas 
+                br
+                | O hechas por el hombre
+              td(rowspan='2') Artificiales
+              td Pulpa de madera
+              td Rat&oacute;n Viscoso
+            tr
+              td Pulpa de madera
+              td Rat&oacute;n Diacetato y triacetato
+            tr
+              td(rowspan='7') Sint&eacute;ticas
+              td Petr&oacute;leo
+              td Poliamidas (Nylon, Antron, Rislan)
+            tr
+              td Petr&oacute;leo
+              td Poli&eacute;steres (Tergal, Dacron, Terylene)
+            tr
+              td Petr&oacute;leo
+              td Poliacrioliltrilicas (Orlon, Dralon)
+            tr
+              td Petr&oacute;leo
+              td Poliolefinicas (Trofil, Merakion)
+            tr
+              td Petr&oacute;leo
+              td Poliueretanicas (Lycra, Dorlastan)
+            tr
+              td Petr&oacute;leo
+              td Aram&iacute;dicas (Nomex, Kevlar, Kermel)
+            tr
+              td Petr&oacute;leo
+              td Cloradas (Rhovil, Clevyl)
+            tr
+              td(rowspan='2') Inorg&aacute;nicas
+              td Silicatos
+              td Lana de Vidrio
+            tr
+              td Metales
+              td Hilos Met&aacute;licos
+
       br
       caption Tabla 1: Clasificación de las principales fibras textiles
       br
