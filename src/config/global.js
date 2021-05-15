@@ -266,124 +266,112 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Digipalma Audiovisual Sonido Iluminación y Video. (2009). Documental sobre: el Lino 1 de 3. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=u0tsXiEvH-Q&feature=youtu.be',
+    },
+    {
+      referencia:
+        'Educacciontv. (2012). Elaboración de la seda. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=GGKym9V55eU&feature=youtu.be',
+    },
+    {
+      referencia:
+        'Gentlemans Gazette. (2020). Historia detallada del algodón – Cómo identificar telas, camisas y suéteres de algodón de calidad. [Video]. YouTube.',
+      link: 'https://youtu.be/LKcVxOVs8Oo',
+    },
+    {
+      referencia:
+        '10K Tops. (2019). Así es el proceso de la lana - producción de lana. [Video]. YouTube.',
+      link: 'https://youtu.be/Iy0pqnR00iw',
+    },
+    {
+      referencia:
+        'Molina, V., R. (2020). Hilados y textiles. Quantia Solutions.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://quantiasolutions.com/wp-content/uploads/Quantia-Solutions-Formaci%C3%B3n-Hilados-y-Textiles.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Pesok, M, J., C. (2014). Fibras textiles. Introducción a la tecnología textil. Cursos de tecnología textil realizados en la Facultad de Ingeniería. (p. 9). Universidad de la República. Montevideo, Uruguay.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/79774?page=92',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Testex. (2018). ¿Qué es la fibra de algodón? Propiedades de la fibra de algodón. [Web log post].  Blog.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.testextextile.com/es/%C2%BFCu%C3%A1les-son-las-propiedades-de-la-fibra-de-algod%C3%B3n-de-la-fibra-de-algod%C3%B3n%3F/ ',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Aplomar',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Ubicar línea de aplome en el molde y en el trazo de acuerdo con la forma del diseño o producto, teniendo como punto de referencia el orillo de la tela.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Calidad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es el grado en que un producto cumple con el propósito para el cual ha sido diseñado, satisfaciendo las necesidades del cliente.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Extender',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Operación de superponer las capas de tela en una mesa de corte.',
     },
     {
-      termino: 'Vectores',
+      termino: 'Pin',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Elemento cortopunzante utilizado al lado y lado de la mesa de corte para fijar y cazar la posición de las telas con diseños especiales.',
     },
     {
-      termino: 'Moda',
+      termino: 'Trazo',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
-    },
-    {
-      termino: 'Diseño',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Software',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Dibujo de cada una de las piezas que conforman una referencia según una orden de corte. ',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        '10K Tops. (2019). Así es el proceso de la lana - producción de lana. [Video]. YouTube.”',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://youtu.be/Iy0pqnR00iw',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Cluster textil / Confección, diseño y moda de Medellín. (2017). Corte de prendas de vestir. Manual de uso. Cámara de Comercio de Medellín para Antioquia. Alcaldía de Medellín. Cuenta con vos.',
+      tipo: 'PDF',
+      descarga: '#',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Digipalma Audiovisual Sonido Iluminación y Video. (2009). Documental sobre: el Lino 1 de 3. [Video].',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=u0tsXiEvH-Q&feature=youtu.be',
+    },
+    {
+      texto: 'Educacciontv. (2012). Elaboración de la seda. [Video]. YouTube.',
+      tipo: 'Video',
+      descarga: 'https://www.youtube.com/watch?v=GGKym9V55eU&feature=youtu.be',
+    },
+    {
+      texto:
+        'Gentlemans Gazette. (2020). Historia detallada del algodón – Cómo identificar telas, camisas y suéteres de algodón de calidad.',
+      tipo: 'Video',
+      link: 'https://youtu.be/LKcVxOVs8Oo',
+    },
+    {
+      texto:
+        'Servicio Nacional de Aprendizaje. (1990). Confecciones industriales. Procesos básicos en la sala de corte. Subdirección Técnico-pedagógica. División de Industria.',
+      tipo: 'PDF',
+      link: '#',
+    },
+    {
+      texto:
+        'Texdelta. (2020). Características de las fibras sintéticas para la fabricación de no tejidos. [Web log post]. El blog de Texdelta.',
+      tipo: 'PDF',
+      link:
+        'https://texdelta.com/blog/caracteristicas-de-las-fibras-sinteticas-para-la-fabricacion-de-tejidos/',
     },
   ],
 }
