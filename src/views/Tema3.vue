@@ -10,7 +10,7 @@
       .col-md-6
         p.mb-5 Es un conjunto de fibras textiles continuas o discontinuas, que se tuercen juntas alcanzando una gran longitud, es directamente empleado en la fabricación de tejidos y en el cosido de estos.
         p.mb-5 Con el fin de que amplíe la información sobre este tema revise el Capítulo IV. Hilaturas del libro de Pesok, M., J., C. (2014). Cursos de tecnología textil realizados en la Facultad de Ingeniería. Universidad de la República. Montevideo,Uruguay.
-        a.anexo.mb-5.mb-lg-0(href="#" target="_blank")
+        a.anexo.mb-5.mb-lg-0(href="https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/79774?page=92" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

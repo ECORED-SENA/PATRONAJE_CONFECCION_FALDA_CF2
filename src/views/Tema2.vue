@@ -27,7 +27,7 @@
         .h6 Fibra de algodón
         p.mb-5 Como lo afirma Testex (2018) “el algodón es una fibra textil muy utilizada en la industria textil. Debido a sus usos versátiles; la gente se siente cómoda de usar fibra de algodón para hacer telas” porque es suave al tacto, confortable y tiene un alto nivel de permeabilidad. Es una fibra muy versátil, lo que permite que sea utilizada para confeccionar ropa exterior, interior y de hogar.
         p.mb-5 A manera de consulta revise el siguiente video:
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/LKcVxOVs8Oo" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -42,7 +42,7 @@
         .h6 Fibra de lino
         p.mb-5 Es una fibra fuerte, resistente, en la industria se utiliza para confeccionar blusas, faldas, pantalones y vestidos, es utilizada en climas cálidos por la frescura y suavidad al tacto, de igual forma se puede mezclar con otras fibras naturales como el algodón para mejorar su calidad.
         p.mb-5 A manera de consulta revise el siguiente video:
-        a.anexo.mb-4.mb-lg-0(href="#" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=u0tsXiEvH-Q&feature=youtu.be" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -60,7 +60,7 @@
         .h6 Fibra de seda
         p.mb-5 Es una de las fibras más antiguas y que nace con los textiles, de acuerdo con la historia de los textiles desde antes de Cristo ya existían tejidos en seda, esta posee un alto brillo natural, es muy suave al tacto, presenta buena absorción, se tiñe fácilmente, es flexible, pero con muy poca elasticidad; en la industria es utilizada para elaborar tejidos empleados en prendas como vestidos de fiesta, blusas y ropa para dormir.
         p.mb-5 A manera de consulta revise el siguiente video:
-        a.anexo.mb-4.mb-lg-0(href="#" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=GGKym9V55eU&feature=youtu.be" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -75,7 +75,7 @@
         .h6 Fibra de lana
         p.mb-5 El ondulado natural de la fibra la hace muy fácil de hilar, es una fibra resistente, elástica, conductora de calor y aislante térmico; en la industria de la confección es utilizada para elaborar tejidos empleados en vestidos formales de paño, abrigos, faldas, pantalones y sacos.
         p.mb-5 A manera de consulta revise el siguiente video:
-        a.anexo.mb-4.mb-lg-0(href="#" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://youtu.be/Iy0pqnR00iw" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -201,7 +201,7 @@
       br
       caption Tabla 1: Clasificación de las principales fibras textiles
       br
-      a.anexo.mb-4.mb-lg-0(href="#" target="_blank")
+      a.anexo.mb-4.mb-lg-0(href="https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/79774?page=92" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

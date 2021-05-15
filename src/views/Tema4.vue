@@ -79,7 +79,7 @@
     .h6 No tejidos
     p.mb-3 Tipo de telas producidas al formar una red con fibras que se unen por procedimientos mecánicos, térmicos o químicos, pero sin ser tejidas, como la guata y el interl­ón. 
     p.mb-5 A manera de consulta adicional revise el siguiente contenido:
-    a.anexo.mb-4.mb-lg-0(href="#" target="_blank")
+    a.anexo.mb-4.mb-lg-0(href="https://texdelta.com/blog/caracteristicas-de-las-fibras-sinteticas-para-la-fabricacion-de-tejidos/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
