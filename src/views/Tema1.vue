@@ -143,12 +143,16 @@
           img.h90(src='@/assets/curso/t1-ic20.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4.w100
             p El cabello debe estar recogido o protegido con cofia para evitar enredos en los mecanismos de la máquina.
-    .row
-      .col-md-6
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic21.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4
             p Utilizar tapabocas, ya que los materiales textiles pueden desprender partículas o mota que afecta los pulmones.
+    .row
+      .col-md-6
+         .tarjeta-Avatar-b.mb-5
+          img.h90(src='@/assets/curso/t1-ic25.svg' alt='icono recomendaciones')
+          .tarjeta.tarjeta--azul.p-4
+            p Igualmente es importante realizar pausas activas en mitad de la jornada de trabajo, con el fin de activar el sistema muscular y nervioso, ya que la gran mayoría de actividades que se realizan en confección son sedentarias. 
       .col-md-6
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic22.svg' alt='icono recomendaciones')
@@ -165,13 +169,7 @@
           img.h90(src='@/assets/curso/t1-ic24.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4
             p Es importante contar con un área de almacenamiento de desperdicios, estas acciones ayudan a disminuir el nivel de impacto negativo sobre el medio ambiente.
-    .row
-      .col-md-6
-        .tarjeta-Avatar-b.mb-5
-          img.h90(src='@/assets/curso/t1-ic25.svg' alt='icono recomendaciones')
-          .tarjeta.tarjeta--azul.p-4
-            p Igualmente es importante realizar pausas activas en mitad de la jornada de trabajo, con el fin de activar el sistema muscular y nervioso, ya que la gran mayoría de actividades que se realizan en confección son sedentarias. 
-
+   
 
   
 </template>
