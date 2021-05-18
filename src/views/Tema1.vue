@@ -139,7 +139,7 @@
                 | El entrecejo centrado con la barra de aguja.
 
       .col-md-6
-        .tarjeta-Avatar-b.mb-5
+        .tarjeta-Avatar-b.mb-3
           img.h90(src='@/assets/curso/t1-ic20.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4.w100
             p El cabello debe estar recogido o protegido con cofia para evitar enredos en los mecanismos de la máquina.
@@ -190,5 +190,6 @@ export default {
 <style lang="sass" scoped>
 .w100{width: 100%}
 .h90{height: 90px}
-.tarjeta-Avatar-b{min-height: 120px}
+.tarjeta{min-height: 120px}
+.tarjeta-Avatar-b{min-height: 120px; align-items: center}
 </style>
