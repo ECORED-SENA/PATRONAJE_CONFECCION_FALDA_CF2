@@ -21,7 +21,7 @@
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic1.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4.w100
-            p No consumir alimentos ni bebidas
+            p.mt-4 No consumir alimentos ni bebidas
       .col-md-6
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic2.svg' alt='icono recomendaciones')
@@ -37,7 +37,7 @@
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic4.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4.w100
-            p El cabello debe estar recogido o protegido con cofia. 
+            p.mt-4 El cabello debe estar recogido o protegido con cofia. 
     .row
       .col-md-6
         .tarjeta-Avatar-b.mb-5
@@ -101,7 +101,7 @@
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic15.svg' alt='icono recomendaciones')
           .tarjeta.tarjeta--azul.p-4.w100
-            p No consumir alimentos ni bebidas
+            p.mt-4 No consumir alimentos ni bebidas
       .col-md-6
         .tarjeta-Avatar-b.mb-5
           img.h90(src='@/assets/curso/t1-ic16.svg' alt='icono recomendaciones')
