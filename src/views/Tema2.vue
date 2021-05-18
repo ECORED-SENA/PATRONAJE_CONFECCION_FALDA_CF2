@@ -123,7 +123,7 @@
         .h6 Fibras sintéticas
         p.mb-5 Son aquellas que provienen de diversos materiales derivados del petróleo, es decir, son totalmente químicas, tanto la síntesis de la materia prima como la fabricación del filamento son productos hechos por el hombre.  La aparición y desarrollo de las fibras sintéticas en la industria textil ha conseguido hilos que satisfacen la demanda que plantea las nuevas técnicas de tejeduría, por ejemplo, elastómeros, nylon (6, 6.6, 10) poliéster (dacrón, terlenka, coolmax, pet), polipropileno, poliolefinas, aramidas, poliuretano). 
       #t_2_3.titulo-segundo.pt-5 
-        .h4 2.3. Cuadro resumen de la clasificación de las fibras
+        .h4 2.3 Cuadro resumen de la clasificación de las fibras
       p.mb-5 En el siguiente cuadro puede revisar la síntesis sobre la clasificación de las principales fibras utilizadas en la confección.
       .tabla-a.color-acento-contenido.mb-5
         .tabla-b__header

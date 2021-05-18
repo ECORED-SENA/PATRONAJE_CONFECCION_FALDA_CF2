@@ -8,12 +8,12 @@
       .h3 Normas de seguridad industrial
     p.mb-5 Las normas de seguridad industrial son un conjunto de conductas, tareas y actividades realizadas con el fin de prevenir accidentes y el deterioro de la salud de un trabajador en el desarrollo de una labor dentro de su área de trabajo.
     .row.customCard
-      .col-md-8
+      .col-md-6
         .h4 Recomendaciones básicas de seguridad industrial
         p.mb-5 En el desarrollo del ejercicio de corte y confección de la falda es preciso tener en cuenta estas normas que ayudan a realizar las tareas con mayor seguridad y cuidado en el proceso. A continuación, se hace relación a algunas normas en el área de trabajo que se incluyen en el espacio de salud y seguridad en el trabajo, y se requieren en todos los talleres o empresas, estas normas se encuentran dispuestas por áreas de trabajo: 
-      .col-md-4
+      .col-md-6
         figure.mb-5
-          img(src='@/assets/curso/t1-i1.jpg', alt='Operaria de maquina plana con audifonos')
+          img(src='@/assets/curso/t1-i1.png', alt='Operaria de maquina plana con audifonos')
     #t_1_1.titulo-segundo.pt-5.mb-5 
       .h4 1.1  Área de corte
     .row
@@ -190,4 +190,5 @@ export default {
 <style lang="sass" scoped>
 .w100{width: 100%}
 .h90{height: 90px}
+.tarjeta-Avatar-b{min-height: 120px}
 </style>

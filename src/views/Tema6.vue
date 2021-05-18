@@ -30,14 +30,14 @@
         p.mb-5
           span.text-bold Referencia: 
           | ICONTEC (2012). Guía para las buenas prácticas en la confección de prendas de vestir GTC-230. Bogotá, Colombia: ICONTEC.
-    .row
+    .row.mb-5
       .col-md-7
         .h6 Trazo manual
         p.mb-5  El trazo manual se puede realizar sobre el mismo tejido, perfilando a mano con jaboncillo o tiza; sobre papel superpuesto al tejido perfilando con lápiz o bolígrafo, teniendo en cuenta las características dimensionales del tejido que se va a cortar. Es común su uso en talleres pequeños o lo emplean sastres o modistas; el consumo de material textil puede ser mayor y hay riesgo de defectos si el proceso no se realiza de forma correcta. Para iniciar el trazo manual se necesitan materiales e instrumentos de trabajo, tales como: patrones, escuadras, reglas, papel para trazo, lápices, cinta métrica y tiza. 
       .col-md-5
         figure
           img(src='@/assets/curso/t6-i3.jpg', alt='Ejemplo de Trazo Manual')
-    .row
+    .row.mb-5
       .col-md-7
         .h6 Trazo sistematizado
         p.mb-5  Este sistema optimiza la disminución del consumo de la tela y el tiempo en la ejecución del proceso es mucho menor que el realizado manualmente; los patrones se ubican de forma exacta a la longitud del tendido, se pueden trazar los patrones y modelos con o sin escalado, elaborar el tizado en tamaño real y a escala reducida para el control de calidad. El trazado obtenido se coloca directamente sobre el tendido a cortar.
@@ -112,7 +112,7 @@
     .row
       .col-md-12
         .h6.mb5 Extendido abierto
-        figure 
+        figure.mb-4
           img(src='@/assets/curso/t6-i8.jpg', alt='Ilustración ejemplo de extendido abierto')
         p.mb-5 Cuando se realizan trazos y extendidos a nivel industrial que requieren volúmenes de producción se utiliza este extendido, donde la tela reposa en la mesa de corte en todo su ancho. La disposición de los patrones requiere de gran atención debido a que se deben trazar todas las piezas o patrones, teniendo en cuenta el número que se necesiten por prenda y su espejo, es decir, considerando tanto el lado derecho como el izquierdo. 
       .col-md-12

@@ -6,7 +6,7 @@
       .titulo-principal__numero
         .h3 9
       .h3 Corte: proceso corte de falda básica
-    .row
+    .row.mb-5
       .col-md-6
         p.mb-5  Consiste en cortar las piezas de la prenda, siguiendo el perfil trazado o el borde de los moldes. En cuanto a sastrería o prendas a la medida el corte se realiza con tijera, a nivel industrial se realiza con máquinas de corte vertical, circular, sinfín o automáticas.  De las dos formas se debe cumplir con las especificaciones técnicas para garantizar la mejor calidad del corte y minimizar los problemas de confección.
         p.mb-5  El desarrollo de esta tarea exige concentración al momento de realizar el corte, ya que este proceso implica una serie de riesgos, como el daño del textil y posibles deformaciones de las piezas al cortar, generando pérdidas económicas.
