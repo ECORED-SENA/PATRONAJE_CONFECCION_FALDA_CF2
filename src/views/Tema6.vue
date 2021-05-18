@@ -50,7 +50,7 @@
         p.mb-5 Al realizar el proceso de trazo o marcada es importante tener en cuenta las siguientes recomendaciones para no afectar la calidad de la prenda terminada:
     .row
       .col-md-6
-        ul.lista-ul
+        ul.lista-ul.customIcList
           li 
             i.fas.fa-check
             | El trazo debe estar realizado por el revés de la tela cuando se va a cortar  y se hace de una prenda o prototipo para no dejar marcaciones una vez confeccionada. 
@@ -67,7 +67,7 @@
             i.fas.fa-check
             | Verificar que el ancho del trazo y ancho de la tela sea de igual medida.  
       .col-md-6
-        ul.lista-ul
+        ul.lista-ul.customIcList
           li 
             i.fas.fa-check
             | Verificar o revisar que los patrones en el trazo estén marcados con el nombre de la pieza, talla, piquetes, perforaciones. 
@@ -134,4 +134,6 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.customIcList i{color: #EA3065}
+</style>

@@ -125,8 +125,8 @@
       #t_2_3.titulo-segundo.pt-5 
         .h4 2.3 Cuadro resumen de la clasificación de las fibras
       p.mb-5 En el siguiente cuadro puede revisar la síntesis sobre la clasificación de las principales fibras utilizadas en la confección.
-      .tabla-a.color-acento-contenido.mb-5
-        .tabla-b__header
+      .tabla-a.encabezado--morado.mb-5
+        .tabla-b__header.CustomColor
           .h6.mb-0 Clasificación de las principales fibras textiles
         table(border='1', style='border:1px solid #E1E1E1')
           tbody(style='border:1px solid #E1E1E1')
@@ -219,4 +219,6 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.CustomColor{background-color: #895cd8}
+</style>
