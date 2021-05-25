@@ -345,7 +345,6 @@ export default {
       texto:
         'Cluster textil / Confección, diseño y moda de Medellín. (2017). Corte de prendas de vestir. Manual de uso. Cámara de Comercio de Medellín para Antioquia. Alcaldía de Medellín. Cuenta con vos.',
       tipo: 'PDF',
-      descarga: '#',
     },
     {
       texto:
@@ -368,7 +367,6 @@ export default {
       texto:
         'Servicio Nacional de Aprendizaje. (1990). Confecciones industriales. Procesos básicos en la sala de corte. Subdirección Técnico-pedagógica. División de Industria.',
       tipo: 'PDF',
-      link: '#',
     },
     {
       texto:
