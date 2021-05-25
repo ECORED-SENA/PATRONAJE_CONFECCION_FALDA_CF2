@@ -13,10 +13,10 @@
       .col-md-6
         figure.mb-5
           img(src='@/assets/curso/t2-i1.jpg', alt='Manos mostrando tipos de tela sobre una mesa')
-    #t_2_1.titulo-segundo.pt-5 
-        .h4 2.1  Fibras textiles
+    #t_2_1.titulo-segundo.pt-5.mb-5 
+      .h4 2.1  Fibras textiles
     p.mb-5 Molina (2020) define la fibra textil como “un sólido de estructura más o menos cilíndrica, macroscópicamente homogéneo, caracterizado por su flexibilidad, pequeña sección transversal y una elevada relación longitud/grosor. Se utiliza como materia prima para obtener materiales textiles” (p. 2). Una fibra natural es la fibra cuyo origen está en la naturaleza, que puede hilarse para dar lugar a hilos o cuerdas, es decir, es extraída de la naturaleza mediante procedimientos físicos o mecánicos que a su vez pueden ser de origen vegetal, animal y mineral.
-    .titulo-tercero.pt-5
+    .titulo-tercero.pt-3
       .h5 Fibras de origen vegetal
     p.mb-5 Entre las fibras de origen vegetal están las que se extraen de la vellosidad de algunas semillas como el algodón; de los tallos (o líber) como el lino, el cáñamo, yute, bambú; de las fibras de follajes como el sisal, fique, piña, y de algunas palmas y fibras de cáscaras (frutos) como las de coco y mango. A continuación, puede revisar algunos ejemplos:
     .row 
@@ -26,7 +26,7 @@
       .col-md-7
         .h6 Fibra de algodón
         p.mb-5 Como lo afirma Testex (2018) “el algodón es una fibra textil muy utilizada en la industria textil. Debido a sus usos versátiles; la gente se siente cómoda de usar fibra de algodón para hacer telas” porque es suave al tacto, confortable y tiene un alto nivel de permeabilidad. Es una fibra muy versátil, lo que permite que sea utilizada para confeccionar ropa exterior, interior y de hogar.
-        p.mb-5 A manera de consulta revise el siguiente video:
+        p.mb-3 A manera de consulta revise el siguiente video:
         a.anexo.mb-4.mb-lg-0(href="https://youtu.be/LKcVxOVs8Oo" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
@@ -49,7 +49,7 @@
             p 
               span.text-bold Enlace web.
               | Digipalma Audiovisual Sonido Iluminación y Video. (2009). Documental sobre: el Lino 1 de 3.
-    .titulo-tercero.pt-5
+    .titulo-tercero.pt-3
       .h5 Fibra de origen animal
     p.mb-5 Proviene de los folículos pilosos o de glándulas de animales, que son extraídas del medio natural y que, una vez procesadas, se constituyen en un producto de aplicación textil como la lana, los pelos o la seda, a continuación, se presentan algunos ejemplos.
     .row 
@@ -82,7 +82,7 @@
             p 
               span.text-bold Enlace web.
               | 10K Tops. (2019). Así es el proceso de la lana - Producción de lana.
-    .titulo-tercero.pt-5
+    .titulo-tercero.pt-3.mb-5
       .h5 Fibras de origen mineral
     .row
       .col-md-5
@@ -106,7 +106,7 @@
         p.mb-5 Es una fibra conductora de electricidad, se puede mezclar con otro tipo de fibras naturales y artificiales fácilmente y, es utilizada para producir textiles antibacterianos, fungicidas y resistentes al olor.
     #t_2_2.titulo-segundo.pt-5 
       .h4 2.2 Fibras químicas
-      p.mb-5 También son llamadas celulósicas hechas por el hombre. Las ventajas de estas fibras es que principalmente  no dependen de cosechas, y su volumen de producción puede ser modificado a voluntad, se dividen en:
+    p.mb-5 También son llamadas celulósicas hechas por el hombre. Las ventajas de estas fibras es que principalmente  no dependen de cosechas, y su volumen de producción puede ser modificado a voluntad, se dividen en:
     .row.mb-5 
       .col-md-5
         figure
@@ -122,13 +122,13 @@
       .col-md-7
         .h6 Fibras sintéticas
         p.mb-5 Son aquellas que provienen de diversos materiales derivados del petróleo, es decir, son totalmente químicas, tanto la síntesis de la materia prima como la fabricación del filamento son productos hechos por el hombre.  La aparición y desarrollo de las fibras sintéticas en la industria textil ha conseguido hilos que satisfacen la demanda que plantea las nuevas técnicas de tejeduría, por ejemplo, elastómeros, nylon (6, 6.6, 10) poliéster (dacrón, terlenka, coolmax, pet), polipropileno, poliolefinas, aramidas, poliuretano). 
-      #t_2_3.titulo-segundo.pt-5 
-        .h4 2.3 Cuadro resumen de la clasificación de las fibras
-      p.mb-5 En el siguiente cuadro puede revisar la síntesis sobre la clasificación de las principales fibras utilizadas en la confección.
-      .tabla-a.encabezado--morado.mb-5
+    #t_2_3.titulo-segundo.pt-5 
+      .h4 2.3 Cuadro resumen de la clasificación de las fibras
+    p.mb-3 En el siguiente cuadro puede revisar la síntesis sobre la clasificación de las principales fibras utilizadas en la confección.
+      .tabla-a.encabezado--morado.mb-3
         .tabla-b__header.CustomColor
           .h6.mb-0 Clasificación de las principales fibras textiles
-        table(border='1', style='border:1px solid #E1E1E1')
+        table.customT(border='1', style='border:1px solid #E1E1E1')
           tbody(style='border:1px solid #E1E1E1')
             tr
               td(rowspan='7') 
@@ -197,17 +197,17 @@
             tr
               td Metales
               td Hilos Met&aacute;licos
+    .row
+      .col-lg-12
+        caption.mb-5 Tabla 1: Clasificación de las principales fibras textiles
 
-      br
-      caption Tabla 1: Clasificación de las principales fibras textiles
-      br
-      a.anexo.mb-4.mb-lg-0(href="https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/79774?page=92" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p 
-              span.text-bold Enlace web.
-              | Tomado de Pesok, M, J., C. (2014). Fibras textiles. Introducción a la tecnología textil. Cursos de tecnología textil realizados en la Facultad de Ingeniería. (p. 9). Universidad de la República. Montevideo, Uruguay
+    a.anexo.mb-4.mb-lg-0(href="https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/79774?page=92" target="_blank")
+        .anexo__icono
+          img(src="@/assets/template/icono-link.svg")
+        .anexo__texto
+          p 
+            span.text-bold Enlace web.
+            | Tomado de Pesok, M, J., C. (2014). Fibras textiles. Introducción a la tecnología textil. Cursos de tecnología textil realizados en la Facultad de Ingeniería. (p. 9). Universidad de la República. Montevideo, Uruguay
 </template>
 
 <script>
@@ -221,4 +221,6 @@ export default {
 
 <style lang="sass" scoped>
 .CustomColor{background-color: #895cd8}
+.customT td{ padding-left: 25px}
+caption{background-color: #e8e8e8; padding: 8px; margin-top: 8px; display: block}
 </style>
