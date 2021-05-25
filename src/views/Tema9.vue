@@ -18,41 +18,43 @@
         .h5 A. Pasos para realizar el corte de falda básica
         p.mb-5 Esta actividad requiere atención y cuidado, ya que está en juego el material utilizado y el bienestar de la persona que lo realiza, a continuación, se detallan los pasos básicos a tener en cuenta en este proceso:
     .cardsList
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-3
+      .tarjeta-numerada.color-acento-contenido.p-5.btop-2
           .tarjeta-numerada__numero
             .h4 1
-          | Ruta integral de atención en salud para la promoción y mantenimiento de la salud.
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-3
+          | Verificar la cantidad de piezas a cortar.
+      .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
             .h4 2
           | Tomar de forma correcta las tijeras por el mango, al cortar se debe tener la tijera apoyada sobre la mesa para tener un mejor soporte en el momento del corte.
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-3
+      .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
             .h4 3
           | Iniciar con las piezas que están hacia el orillo de la tela y de forma organizada continuar con las demás.
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-3
+      .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
             .h4 4
-          | Al cortar la falda básica se debe respetar las formas de las piezas, curvas, rectas y ángulos, con el fin de no generar variaciones en las medidas de la prenda.
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-3
-          .tarjeta-numerada__numero
+          | Al cortar la falda básica se debe respetar las formas de las piezas, curvas, rectas y ángulos, con el fin de no generar variaciones en las medidas de la prenda. 
+      .tarjeta-numerada.color-acento-contenido.p-5
+          .tarjeta-numerada__numero.t30
             .h4 5
-          ol.lista-ol
+          | Una vez cortados los patrones es necesario verificar:
+          ol.lista-ol.pt-2
             li 
               span.text-bold a. 
-              | Marcaciones de piquetes: deben ser cortados 0.5 cm máximo, para una mejor calidad en el corte realizarlo con la punta de la tijera.
+              | Marcaciones de piquetes: deben ser cortados 0.5 cm máximo, para una mejor calidad en el corte realizarlo con la punta de la tijera. 
             li 
               span.text-bold b. 
-              | Marcaciones de puntos internos: como el vértice de pinza, los cuales deben ser trasladados o marcados en las piezas del delantero y del posterior utilizando una plantilla.
+              | Marcaciones de puntos internos: como el vértice de pinza, los cuales deben ser trasladados o marcados en las piezas del delantero y del posterior utilizando una plantilla. 
             
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-3
-          .tarjeta-numerada__numero
+      .tarjeta-numerada.color-acento-contenido.p-5
+          .tarjeta-numerada__numero.align-items-center
             .h4 6
-          | Disponer de los residuos generados en el corte, depositándolos en un contenedor para no generar contaminación, ni desorden.
-      .tarjeta-numerada.color-acento-contenido.p-5.mb-5
-          .tarjeta-numerada__numero
+          | Disponer de los residuos generados en el corte, depositándolos en un contenedor para no generar contaminación, ni desorden. 
+      .tarjeta-numerada.color-acento-contenido.p-5.mb-5.align-items-center
+          .tarjeta-numerada__numero.t35
             .h4 7
-          ol.lista-ol
+          | Realizar el control de calidad al corte, verificando:
+          ol.lista-ol.pt-2
             li 
               span.text-bold a. 
               | Número de piezas cortadas frente a las patronadas.
@@ -102,4 +104,8 @@ export default {
 <style lang="sass" scoped>
 .anexo{background-color: #F6F6F6 !important}
 .anexo p, .anexo *{color: #000}
+.tarjeta-numerada {border-left: 0px; border-right: 0px; border-color: #AFAFAF; border-radius: 0px; border-top: 0px}
+.t30{top: 30%}
+.t35{top: 35%}
+.btop-2{border-top: 2px solid #AFAFAF !important}
 </style>
