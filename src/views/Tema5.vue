@@ -22,4 +22,7 @@ export default {
 }
 </script>
 
-<style lang="sass" scoped></style>
+<style lang="sass" scoped>
+.anexo{background-color: #F6F6F6 !important}
+.anexo p, .anexo *{color: #000}
+</style>

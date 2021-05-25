@@ -223,4 +223,6 @@ export default {
 .CustomColor{background-color: #895cd8}
 .customT td{ padding-left: 25px}
 caption{background-color: #e8e8e8; padding: 8px; margin-top: 8px; display: block}
+.anexo{background-color: #F6F6F6 !important}
+.anexo p, .anexo *{color: #000}
 </style>

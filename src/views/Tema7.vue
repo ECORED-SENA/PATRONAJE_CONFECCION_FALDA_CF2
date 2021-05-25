@@ -88,4 +88,6 @@ export default {
 
 <style lang="sass" scoped>
 .slyder__action{margin-top: 100px}
+.anexo{background-color: #F6F6F6 !important}
+.anexo p, .anexo *{color: #000}
 </style>

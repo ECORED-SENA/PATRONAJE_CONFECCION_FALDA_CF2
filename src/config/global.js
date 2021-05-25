@@ -242,12 +242,16 @@ export default {
         cargo: 'Soporte organizacional',
       },
       {
-        nombre: ['Adriana Rincón Avendaño', 'Eulises Orduz Amezquita'],
+        nombre: ['Jorge Armando Villamizar Moreno'],
         cargo: 'Diseño web y Producción Audiovisual',
       },
       {
-        nombre: 'Edward Leonardo Pico Cabra',
+        nombre: 'Luis Fabian Robles Méndez',
         cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Veimar Celis Melendez',
+        cargo: 'Validación de diseño y contenido',
       },
       {
         centro: 'Centro Industrial del Diseño y la Manufactura',
@@ -256,9 +260,9 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
-        centro: 'Centro de comercio y servicios',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],

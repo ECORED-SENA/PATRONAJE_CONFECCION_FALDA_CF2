@@ -113,13 +113,13 @@
       .col-md-12
         .h6.mb5 Extendido abierto
         figure.mb-4
-          img(src='@/assets/curso/t6-i8.jpg', alt='Ilustración ejemplo de extendido abierto')
+          img(src='@/assets/curso/t6-i8.svg', alt='Ilustración ejemplo de extendido abierto')
         p.mb-5 Cuando se realizan trazos y extendidos a nivel industrial que requieren volúmenes de producción se utiliza este extendido, donde la tela reposa en la mesa de corte en todo su ancho. La disposición de los patrones requiere de gran atención debido a que se deben trazar todas las piezas o patrones, teniendo en cuenta el número que se necesiten por prenda y su espejo, es decir, considerando tanto el lado derecho como el izquierdo. 
       .col-md-12
         .h6 Extendido cerrado
           br
         figure 
-          img(src='@/assets/curso/t6-i9.jpg', alt='Ilustración ejemplo de extendido cerrado')
+          img(src='@/assets/curso/t6-i9.svg', alt='Ilustración ejemplo de extendido cerrado')
         br
         p.mb-5 Se utiliza este extendido cuando se corta una o dos prendas, la tela se dobla a la mitad juntando orillo con orillo, formando en uno de sus extremos un lomo al que también se le llama doblez de tela; se debe tener en cuenta la distribución de los patrones y el número de veces que se traza en la tela, ya que al doblar la tela queda el derecho con derecho, por lo tanto, solo se requiere trazar una sola vez el patrón (ver ejemplo de distribución). El resultado con respecto al consumo de tela es mayor, por lo que no se recomienda para procesos industriales.
 
@@ -136,4 +136,6 @@ export default {
 
 <style lang="sass" scoped>
 .customIcList i{color: #EA3065}
+.anexo{background-color: #F6F6F6 !important}
+.anexo p, .anexo *{color: #000}
 </style>
