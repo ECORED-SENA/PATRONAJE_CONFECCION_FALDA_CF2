@@ -356,7 +356,7 @@ export default {
     {
       texto: 'Educacciontv. (2012). Elaboración de la seda. [Video]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=GGKym9V55eU&feature=youtu.be',
+      link: 'https://www.youtube.com/watch?v=GGKym9V55eU&feature=youtu.be',
     },
     {
       texto:
