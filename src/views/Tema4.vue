@@ -90,7 +90,9 @@
       figure 
         img(src='@/assets/curso/t4-i8.svg', alt='Ejemplo de tejido de punto')
       br
-      figcaption.mb-5 Figura 5: Tejido de punto
+      figcaption.mb-5 
+        span.text-bold Figura 5: 
+        | Tejido de punto
     p.mb-5
       span.text-bold Nota:
       | El tejido de punto se clasifica en trama y urdimbre.  
