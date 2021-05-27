@@ -345,6 +345,7 @@ export default {
       texto:
         'Cluster textil / Confección, diseño y moda de Medellín. (2017). Corte de prendas de vestir. Manual de uso. Cámara de Comercio de Medellín para Antioquia. Alcaldía de Medellín. Cuenta con vos.',
       tipo: 'PDF',
+      descarga: '/downloads/Corte-de-prendas-de-vestir-Manual-de-Uso.pdf',
     },
     {
       texto:
@@ -367,11 +368,12 @@ export default {
       texto:
         'Servicio Nacional de Aprendizaje. (1990). Confecciones industriales. Procesos básicos en la sala de corte. Subdirección Técnico-pedagógica. División de Industria.',
       tipo: 'PDF',
+      descarga: '/downloads/Confecciones-industriales.pdf',
     },
     {
       texto:
         'Texdelta. (2020). Características de las fibras sintéticas para la fabricación de no tejidos. [Web log post]. El blog de Texdelta.',
-      tipo: 'PDF',
+      tipo: 'Enlace',
       link:
         'https://texdelta.com/blog/caracteristicas-de-las-fibras-sinteticas-para-la-fabricacion-de-tejidos/',
     },
