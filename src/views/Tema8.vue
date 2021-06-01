@@ -14,8 +14,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              .h5.mb-0 Título del recurso
-              p Consideraciones generales de tratamiento clínico del paciente con COVID-19 en el servicio de urgencias  
+              .h5.mb-0 Instructivo para realizar el trazo de la falda básica
+              p La orientación en el proceso trazo de falda básica se hace por medio de este instructivo que debe revisar paso a paso en el siguiente enlace. 
             .col-sm-auto
               a.boton.boton--b(:href="obtenerLink('/downloads/Instructivo_Trazo-Falda-Basica.pdf')" target="_blank")
                 span Descargar
